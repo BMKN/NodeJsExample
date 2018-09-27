@@ -1,0 +1,26 @@
+{
+  "name": "todoapp",
+  "version": "1.0.0",
+  "description": "add remove items",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BMKN"
+  },
+  "keywords": [
+    "Node.js",
+    "todoapp"
+  ],
+  "author": "Brian Nowlan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.17",
+    "mongose": "0.0.2-security"
+  }
+}
